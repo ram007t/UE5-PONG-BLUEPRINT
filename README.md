@@ -19,11 +19,13 @@ Blueprint learning sample
 Community reference / learning
 
 ## Features
-- Paddle movement
+- Player Paddle movement
+- AI Paddle behavior
 - Ball collision
 - Score system
 - Restart flow
 - Basic game loop
+- Win Condition
 
 ## Notes
 This project is shared for learning purposes and may contain simple implementations intended for beginners.
