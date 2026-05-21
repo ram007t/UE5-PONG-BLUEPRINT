@@ -25,7 +25,7 @@ Community reference / learning
 - Score system
 - Restart flow
 - Basic game loop
-- Win Condition
+- Win/Lose Condition
 
 ## Notes
 This project is shared for learning purposes and may contain simple implementations intended for beginners.
