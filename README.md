@@ -1,6 +1,8 @@
-# UE5 Pong Blueprint Sample
+## UE5 Pong Blueprint Sample
 
 A small Pong game made in Unreal Engine 5 using Blueprints.
+
+![Preview](.github/assets/pong_gameplay.gif)
 
 ## Author
 Ram  
